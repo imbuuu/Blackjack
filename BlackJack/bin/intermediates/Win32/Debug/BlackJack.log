@@ -1,0 +1,6 @@
+﻿  Deck.cpp
+C:\Users\Dulge\Desktop\BlackJack\src\Deck.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulge\Desktop\BlackJack\src\Deck.cpp(20,40): error C2059: syntax error: '['
+  main.cpp
+C:\Users\Dulge\Desktop\BlackJack\src\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
